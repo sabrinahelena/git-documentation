@@ -1,7 +1,8 @@
 # Instruções básicas git
 
 - ## Repositório criado para auxiliar nos estudos de git.
-
+    - ### [Repositorios](./repositorio.md)
+    - ### [Comandos](./comandosGit.md)
 <br>
 
 ***
